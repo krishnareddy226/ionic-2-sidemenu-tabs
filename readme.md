@@ -1,4 +1,6 @@
-This is a hybrid template for [Ionic 2](http://ionicframework.com/docs/v2/) projects.
+## Ionic 2 sidemenuTabs template
+
+This is a hybrid (sidemenu + tabs) template for [Ionic 2](http://ionicframework.com/docs/v2/) projects.
 
 ## How to use this template
 

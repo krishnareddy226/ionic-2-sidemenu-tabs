@@ -1,27 +1,38 @@
-## Ionic 2 sidemenuTabs template
+### :point_right: Full Tutorial at [pointdeveloper.com/ionic-2-side-menu-with-tabs](http://pointdeveloper.com/ionic-2-side-menu-tabs/)  :point_left:
 
-This is a hybrid (sidemenu + tabs) template for [Ionic 2](http://ionicframework.com/docs/v2/) projects.
+<br/>
 
-## How to use this template
+[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.me/prantikv)
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/driftyco/ionic2-app-base).
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/driftyco/ionic2-app-base).
+I dedicate a considerable amount of my free time developing and maintaining this tutorial post, along with my other tutorials.
+To help ensure this post / repo  is kept updated, new features are added and bug fixes are implemented quickly, please donate a couple of dollars (or a little more if you can stretch) as this will help me to afford to dedicate time to its maintenance. Please consider donating if you found this helpful.
 
-### With the Ionic CLI:
 
-Use the `ionic start` command as shown below:
+<br/>
+<br/>
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start sidemenuTabs https://github.com/pointdeveloper/ionic-2-sidemenu-tabs --v2
-```
+## More Tutorials
 
-Then, to run it, cd into `sidemenuTabs` and run:
+More tutorials at [pointDeveloper.com](http://pointdeveloper.com/)
 
-```bash
-$ ionic platform add ios
-$ ionic run ios
-```
 
-Substitute ios for android if not on a Mac.
+## Full Tutorial Courses
+
+Full tutorial Courses at [http://pointdeveloper.com/category/course/](http://pointdeveloper.com/category/course/)
+
+## Published E-books
+
+Check out E-books published with indepth explanations at [http://pointdeveloper.com/category/e-book/](http://pointdeveloper.com/category/e-book/)
+
+## Hire Me
+
+Need help with you projects? Take a look at my [consulting page](http://pointdeveloper.com/hire-me/) for more.
+
+## Contact
+
+:point_right: [Contact Form](http://pointdeveloper.com/contact/)
+
+:point_right: [Twitter](https://twitter.com/pointdeveloper) 
+
+:point_right: [YouTube](https://www.youtube.com/c/pointdeveloper)
